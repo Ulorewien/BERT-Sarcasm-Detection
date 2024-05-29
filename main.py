@@ -13,7 +13,6 @@ split_ratio = 0.8
 len_dataset = 2000
 batch_size = 32
 
-# Create train and test data loaders
 # Load the data
 print("Loading data...")
 news_dataset = pd.read_json(news_dataset_dir, lines=True)
@@ -43,10 +42,14 @@ masked_dataset_news = np.where(padded_dataset_news != 0, 1, 0)
 print(f"Shape of the masked dataset: {masked_dataset_news.shape}")
 
 # Split the data in training and testing sets and create dataloaders
-train_set_news = masked_dataset_news[:int(split_ratio*len_dataset)]
-test_set_news = masked_dataset_news[int(split_ratio*len_dataset):]
+split_val = int(split_ratio*len_dataset)
+print(f"Splitting the data -> Train ({split_val}) & Test ({len_dataset-split_val})")
+train_features_news = masked_dataset_news[:split_val]
+test_features_news = masked_dataset_news[split_val:]
+train_labels_news = news_dataset["is_sarcastic"].values[:split_val]
+test_labels_news = news_dataset["is_sarcastic"].values[split_val:]
 
-train_dataset_news = NewsHeadlinesDataset(train_set_news)
-test_dataset_news = NewsHeadlinesDataset(test_set_news)
+train_dataset_news = NewsHeadlinesDataset(train_features_news, train_labels_news)
+test_dataset_news = NewsHeadlinesDataset(test_features_news, test_labels_news)
 train_loader_news = DataLoader(train_dataset_news, batch_size=batch_size, shuffle=True)
 test_loader_news = DataLoader(test_dataset_news, batch_size=batch_size)
