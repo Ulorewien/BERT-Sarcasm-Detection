@@ -6,7 +6,8 @@ class SarcasmDetectionModel(nn.Module):
         self.bert = bert_model
         self.classifier = nn.Linear(768, n_classes)
 
-    def forward(self, x):
-        x = self.bert(x)
+    def forward(self, x, attention_mask):
+        x = self.bert(x, attention_mask=attention_mask)
+        x = x[0][:,0,:]
         x = self.classifier(x)
         return x
