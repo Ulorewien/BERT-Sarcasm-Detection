@@ -6,18 +6,22 @@ from torch import nn
 from torch.utils.data import DataLoader
 from datasets import NewsHeadlinesDataset
 from model import SarcasmDetectionModel
-from util import train_model, evaluate_model
+from util import train_model, plot_progress
 
 # Global Variables
-device = "cuda" if torch.cuda.is_available() else "cpu"
+# device = "cuda" if torch.cuda.is_available() else "cpu"
+device = "cpu"
 news_dataset_dir = "Datasets\\News_Headlines\\Sarcasm_Headlines_Dataset_v2.json"
 split_ratio = 0.8
+model_save_path = "first_run.pth"
+loss_save_path = "losses.png"
+acc_save_path = "accuracies.png"
 
 # Hyperparameters
 len_dataset = 2000
 batch_size = 32
 lr = 2e-5
-n_epoch = 3
+n_epoch = 20
 
 # Load the data
 print("Loading data...")
@@ -68,9 +72,23 @@ model = SarcasmDetectionModel(bert_model).to(device)
 optimizer = torch.optim.AdamW(model.parameters(), lr=lr)
 loss_function = nn.CrossEntropyLoss()
 
+# Create arrays to document progress
+train_losses = []
+train_accuracies = []
+test_losses = []
+test_accuracies = []
+
 # Train and Evaluate the model
 for epoch in range(n_epoch):
-    train_model(model, optimizer, train_loader_news, loss_function)
-    evaluate_model(model, test_loader_news, loss_function)
+    train_loss, train_acc, test_loss, test_acc = train_model(model, optimizer, loss_function, train_loader_news, len(train_labels_news), test_loader_news, len(test_labels_news))
+    train_losses.append(train_loss)
+    train_accuracies.append(train_acc)
+    test_losses.append(test_loss)
+    test_accuracies.append(test_acc)
 
-torch.save(model.state_dict(), "first_run.pth")
+# Save the model
+torch.save(model.state_dict(), model_save_path)
+
+# Plot the results
+plot_progress(train_losses, test_losses, "Loss Plot", "Train Loss", "Test Loss", "Loss", loss_save_path)
+plot_progress(train_accuracies, test_accuracies, "Accuracy Plot", "Train Acc", "Test Acc", "Accuracy", acc_save_path)
