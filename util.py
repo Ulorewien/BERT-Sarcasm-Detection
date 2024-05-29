@@ -1,4 +1,5 @@
 import torch
+import matplotlib.pyplot as plt
 
 def evaluate_model(model, test_loader, loss_function, len_test, train_loss, train_acc):
     model.eval()
@@ -42,3 +43,21 @@ def train_model(model, optimizer, loss_function, train_loader, len_train, test_l
     # print(f"Training loss: {total_loss/len(train_loader)}")
 
     return train_loss, train_acc, test_loss, test_acc
+
+def plot_progress(train, test, title, train_label="", test_label="", y_label="", save_path=None):
+    epochs = range(1, len(train) + 1)
+    
+    plt.figure(figsize=(10, 6))
+    plt.plot(epochs, train, label=train_label)
+    plt.plot(epochs, test, label=test_label)
+    
+    plt.xlabel("Epochs")
+    plt.ylabel(y_label)
+    plt.title(title)
+    plt.legend()
+    plt.grid(True)
+
+    if save_path is not None:
+        plt.savefig(save_path)
+
+    plt.show()
