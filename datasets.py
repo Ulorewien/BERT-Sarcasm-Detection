@@ -1,13 +1,13 @@
 from torch.utils.data import Dataset
 
 class NewsHeadlinesDataset(Dataset):
-    def __init__(self, df):
+    def __init__(self, features, labels):
         super().__init__()
-        self.headlines = df["headline"].values
-        self.labels = df["is_sarcastic"].values
+        self.features = features
+        self.labels = labels
 
     def __len__(self):
-        return len(self.headlines)
+        return len(self.features)
     
     def __getitem__(self, index):
-        return self.headlines[index], self.labels[index]
+        return self.features[index], self.labels[index]
