@@ -62,14 +62,14 @@ print(f"Splitting the data -> Train ({split_val}) & Test ({len_dataset-split_val
 train_features_news = torch.tensor(padded_dataset_news[:split_val], device=device).long()
 train_mask_news = torch.tensor(attention_mask_news[:split_val], device=device).long()
 train_labels_news = torch.tensor(news_dataset["is_sarcastic"].values[:split_val], device=device).long()
-train_articles_news = news_dataset["article_link"].values[:split_val], device=device
+train_articles_news = news_dataset["article_link"].values[:split_val]
 train_dataset_news = NewsHeadlinesDataset(train_features_news, train_mask_news, train_labels_news, train_articles_news)
 train_loader_news = DataLoader(train_dataset_news, batch_size=batch_size, shuffle=True)
 
 test_features_news = torch.tensor(padded_dataset_news[split_val:], device=device).long()
 test_mask_news = torch.tensor(attention_mask_news[split_val:], device=device).long()
 test_labels_news = torch.tensor(news_dataset["is_sarcastic"].values[split_val:], device=device).long()
-test_articles_news = news_dataset["article_link"].values[split_val:], device=device
+test_articles_news = news_dataset["article_link"].values[split_val:]
 test_dataset_news = NewsHeadlinesDataset(test_features_news, test_mask_news, test_labels_news, test_articles_news)
 test_loader_news = DataLoader(test_dataset_news, batch_size=batch_size)
 
