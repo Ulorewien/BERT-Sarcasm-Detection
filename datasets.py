@@ -20,9 +20,10 @@ class TwitterDataset(Dataset):
         self.features = features
         self.attention_mask = attention_mask
         self.labels = labels
+        self.articles = [-1]*len(self.features)
 
     def __len__(self):
         return len(self.features)
     
     def __getitem__(self, index):
-        return self.features[index], self.attention_mask[index], self.labels[index], None
+        return self.features[index], self.attention_mask[index], self.labels[index], self.articles[index]
