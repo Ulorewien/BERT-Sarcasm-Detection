@@ -101,7 +101,7 @@ def get_failed_examples(model, test_loader, tokenizer):
                         "label": labels[i].item(),
                         "prediction": predictions[i].item(),
                         "decoded_sentence": decoded_sentence,
-                        "article_links": article_links[i].item()
+                        "article_link": article_links[i]
                     })
     
     return failed_examples
