@@ -2,50 +2,6 @@
     {
         "input_ids": [
             101,
-            2027,
-            5791,
-            2123,
-            1005,
-            1056,
-            2191,
-            2039,
-            1996,
-            3484,
-            1997,
-            1996,
-            5694,
-            1997,
-            4808,
-            1012,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "they definitely don't make up the majority of the victims of violence."
-    },
-    {
-        "input_ids": [
-            101,
-            1045,
-            2113,
-            1045,
-            2131,
-            18391,
-            2379,
-            1996,
-            2000,
-            8751,
-            2102,
-            1012,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "i know i get aroused near the toliet."
-    },
-    {
-        "input_ids": [
-            101,
             3398,
             2074,
             2066,
@@ -104,35 +60,6 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "it's not like he coached michael floyd to drop all those easy first down catches"
-    },
-    {
-        "input_ids": [
-            101,
-            1045,
-            1005,
-            1049,
-            2469,
-            2008,
-            8016,
-            2052,
-            2147,
-            2092,
-            2007,
-            2026,
-            7991,
-            2961,
-            2279,
-            2051,
-            1045,
-            2131,
-            1999,
-            4390,
-            1012,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "i'm sure that excuse would work well with my commanding officer next time i get in trouble."
     },
     {
         "input_ids": [
@@ -206,43 +133,6 @@
     {
         "input_ids": [
             101,
-            2002,
-            2001,
-            2763,
-            5102,
-            2066,
-            1037,
-            22889,
-            4904,
-            1012,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "he was probably dressed like a slut."
-    },
-    {
-        "input_ids": [
-            101,
-            2008,
-            1005,
-            1055,
-            2066,
-            1996,
-            2476,
-            3930,
-            1997,
-            3393,
-            21337,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "that's like the career growth of lebron"
-    },
-    {
-        "input_ids": [
-            101,
             18856,
             2290,
             16981,
@@ -274,29 +164,6 @@
     {
         "input_ids": [
             101,
-            2006,
-            1996,
-            3893,
-            2217,
-            2003,
-            9005,
-            1037,
-            2155,
-            19882,
-            2617,
-            1998,
-            3256,
-            24733,
-            1012,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "on the positive side is creates a family bonding moment and ice breaker."
-    },
-    {
-        "input_ids": [
-            101,
             2064,
             1005,
             1056,
@@ -308,19 +175,6 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "can't unsee."
-    },
-    {
-        "input_ids": [
-            101,
-            1045,
-            9530,
-            10841,
-            2099,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "i concur"
     },
     {
         "input_ids": [
@@ -407,22 +261,6 @@
     {
         "input_ids": [
             101,
-            2204,
-            2518,
-            1045,
-            5460,
-            1996,
-            2208,
-            1012,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "good thing i stream the game."
-    },
-    {
-        "input_ids": [
-            101,
             2412,
             2657,
             1996,
@@ -485,29 +323,6 @@
     {
         "input_ids": [
             101,
-            2035,
-            1996,
-            2307,
-            2335,
-            1045,
-            2018,
-            1998,
-            2814,
-            2081,
-            2138,
-            1997,
-            2376,
-            11834,
-            1012,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "all the great times i had and friends made because of voice chat."
-    },
-    {
-        "input_ids": [
-            101,
             3198,
             2014,
             2005,
@@ -519,26 +334,6 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "ask her for her price list"
-    },
-    {
-        "input_ids": [
-            101,
-            1045,
-            2123,
-            1005,
-            1056,
-            2228,
-            2037,
-            5470,
-            4282,
-            7760,
-            18471,
-            1012,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "i don't think their fan knows photoshop."
     },
     {
         "input_ids": [
@@ -615,30 +410,35 @@
     {
         "input_ids": [
             101,
-            2008,
-            2323,
-            2022,
-            1996,
-            7750,
-            2005,
-            1996,
-            6616,
-            2545,
-            2008,
-            2106,
-            2006,
-            1037,
-            4049,
-            2007,
-            1037,
-            3336,
-            17801,
-            1012,
+            2129,
+            2079,
+            2017,
+            2025,
+            2293,
+            2637,
             102
         ],
         "label": 0,
         "prediction": 1,
-        "decoded_sentence": "that should be the punishment for the fuckers that did on a boat with a baby dolphin."
+        "decoded_sentence": "how do you not love america"
+    },
+    {
+        "input_ids": [
+            101,
+            2021,
+            2002,
+            3248,
+            2005,
+            2225,
+            10654,
+            1010,
+            7977,
+            1012,
+            102
+        ],
+        "label": 1,
+        "prediction": 0,
+        "decoded_sentence": "but he plays for west ham, gross."
     },
     {
         "input_ids": [
@@ -668,6 +468,23 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "has she posted a photo of her porch costshare during her photo dump of the house yet?"
+    },
+    {
+        "input_ids": [
+            101,
+            2038,
+            2671,
+            2908,
+            1008,
+            2205,
+            1008,
+            2521,
+            1029,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "has science gone * too * far?"
     },
     {
         "input_ids": [
@@ -789,6 +606,53 @@
     {
         "input_ids": [
             101,
+            1996,
+            10774,
+            2123,
+            1005,
+            1056,
+            2031,
+            3036,
+            2749,
+            2000,
+            2562,
+            2017,
+            2013,
+            2975,
+            1010,
+            2111,
+            2000,
+            29543,
+            1996,
+            2231,
+            2000,
+            5490,
+            16284,
+            2818,
+            2151,
+            9751,
+            1998,
+            2123,
+            1005,
+            1056,
+            18820,
+            4757,
+            10756,
+            2040,
+            2681,
+            2007,
+            2037,
+            4268,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "the catholics don't have security forces to keep you from leaving, people to infiltrate the government to squelch any investigations and don't harass mothers who leave with their kids."
+    },
+    {
+        "input_ids": [
+            101,
             2987,
             1005,
             1056,
@@ -803,41 +667,6 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "doesn't she have a mental illness?"
-    },
-    {
-        "input_ids": [
-            101,
-            2065,
-            2057,
-            2123,
-            1005,
-            1056,
-            2031,
-            2256,
-            2219,
-            4255,
-            2000,
-            2954,
-            2114,
-            1010,
-            2054,
-            2097,
-            9587,
-            29068,
-            3686,
-            2149,
-            2000,
-            3857,
-            7046,
-            1998,
-            2488,
-            4255,
-            1029,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "if we don't have our own weapons to fight against, what will motivate us to build bigger and better weapons?"
     },
     {
         "input_ids": [
@@ -867,51 +696,6 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "more like obummer"
-    },
-    {
-        "input_ids": [
-            101,
-            13568,
-            3157,
-            4595,
-            2003,
-            1037,
-            2978,
-            2172,
-            2123,
-            1005,
-            1056,
-            8038,
-            2228,
-            1029,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "ninety nine thousand is a bit much don't ya think?"
-    },
-    {
-        "input_ids": [
-            101,
-            2821,
-            22017,
-            8239,
-            7570,
-            2080,
-            1012,
-            1012,
-            1012,
-            1012,
-            2131,
-            2067,
-            2000,
-            2147,
-            999,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "oh boo fucking hoo.... get back to work!"
     },
     {
         "input_ids": [
@@ -997,6 +781,20 @@
     {
         "input_ids": [
             101,
+            4372,
+            26067,
+            2989,
+            21277,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "entangling alliances."
+    },
+    {
+        "input_ids": [
+            101,
             2008,
             2015,
             1996,
@@ -1014,6 +812,39 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "thats the kinda man everyone likes, shes crazy!"
+    },
+    {
+        "input_ids": [
+            101,
+            15624,
+            1010,
+            2008,
+            1005,
+            1055,
+            2035,
+            3363,
+            3363,
+            3363,
+            2140,
+            16498,
+            2003,
+            1012,
+            1012,
+            1012,
+            1012,
+            2074,
+            8239,
+            2111,
+            2058,
+            2187,
+            1998,
+            2157,
+            1012,
+            102
+        ],
+        "label": 1,
+        "prediction": 0,
+        "decoded_sentence": "yep, that's alllllllll capitalism is.... just fucking people over left and right."
     },
     {
         "input_ids": [
@@ -1150,20 +981,6 @@
     {
         "input_ids": [
             101,
-            2672,
-            1037,
-            6097,
-            2612,
-            1029,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "maybe a mac instead?"
-    },
-    {
-        "input_ids": [
-            101,
             15315,
             2102,
             2097,
@@ -1255,45 +1072,6 @@
     {
         "input_ids": [
             101,
-            1000,
-            2061,
-            1010,
-            1045,
-            2071,
-            4558,
-            2026,
-            3105,
-            2058,
-            2023,
-            1010,
-            2021,
-            2082,
-            11097,
-            1053,
-            5610,
-            2015,
-            4830,
-            2232,
-            11721,
-            2232,
-            2480,
-            1045,
-            10657,
-            10245,
-            7507,
-            2102,
-            2023,
-            4485,
-            1000,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "\" so, i could lose my job over this, but schoolboy q smokes dah gahz i gotta snapchat this shit \""
-    },
-    {
-        "input_ids": [
-            101,
             3504,
             2066,
             1996,
@@ -1309,34 +1087,6 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "looks like the 2008 what - the - didas"
-    },
-    {
-        "input_ids": [
-            101,
-            2129,
-            2064,
-            2017,
-            2025,
-            2424,
-            26838,
-            1010,
-            23563,
-            1010,
-            20228,
-            22974,
-            8486,
-            5422,
-            1010,
-            1998,
-            22537,
-            8562,
-            6057,
-            1029,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "how can you not find immature, repetitive, plagiarized, and irrelevant humor funny?"
     },
     {
         "input_ids": [
@@ -1369,65 +1119,53 @@
     {
         "input_ids": [
             101,
-            2168,
-            999,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "same!"
-    },
-    {
-        "input_ids": [
-            101,
-            2009,
-            1005,
-            1055,
-            2763,
-            2074,
-            1037,
-            1000,
-            1042,
-            2017,
-            1000,
-            23569,
-            2041,
-            2005,
-            2111,
-            2040,
+            20976,
+            12043,
+            1010,
             2123,
             1005,
             1056,
-            2215,
-            2000,
-            2175,
-            2440,
-            16939,
+            4737,
             1010,
-            8909,
-            2243,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "it's probably just a \" f you \" opt out for people who don't want to go full racist, idk"
-    },
-    {
-        "input_ids": [
-            101,
-            3398,
-            1010,
-            2023,
-            2003,
-            2183,
-            2000,
-            2393,
+            1045,
+            1005,
+            2310,
+            2941,
+            2074,
+            2288,
+            1037,
+            2428,
+            2204,
+            9647,
+            1998,
+            1045,
+            1005,
+            1049,
+            3564,
+            2182,
+            2012,
+            7090,
+            2043,
+            1045,
+            2031,
+            2465,
+            1999,
+            1996,
+            2851,
+            2074,
+            2005,
+            3086,
+            1998,
+            4274,
+            2829,
+            2666,
+            2685,
             1012,
             102
         ],
         "label": 1,
         "prediction": 0,
-        "decoded_sentence": "yeah, this is going to help."
+        "decoded_sentence": "nah dude, don't worry, i've actually just got a really good imagination and i'm sitting here at midnight when i have class in the morning just for attention and internet brownie points."
     },
     {
         "input_ids": [
@@ -1477,6 +1215,30 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "you know you can make water pump and crafting station rigth?"
+    },
+    {
+        "input_ids": [
+            101,
+            2017,
+            2024,
+            29454,
+            20807,
+            1996,
+            3574,
+            1997,
+            1037,
+            2773,
+            2008,
+            11276,
+            2000,
+            2031,
+            3574,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "you are diluting the meaning of a word that ought to have meaning."
     },
     {
         "input_ids": [
@@ -1540,22 +1302,6 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "escape lost a total of 12 games to arguably the best teams in the world now lul"
-    },
-    {
-        "input_ids": [
-            101,
-            2021,
-            2079,
-            2017,
-            2066,
-            1996,
-            2801,
-            1029,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "but do you like the idea?"
     },
     {
         "input_ids": [
@@ -1724,40 +1470,6 @@
     {
         "input_ids": [
             101,
-            1008,
-            1008,
-            28286,
-            2497,
-            1008,
-            1008,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "* * tnb * *"
-    },
-    {
-        "input_ids": [
-            101,
-            2092,
-            2002,
-            2442,
-            1005,
-            2310,
-            5533,
-            2045,
-            12873,
-            12054,
-            1012,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "well he must've driven there dumbass."
-    },
-    {
-        "input_ids": [
-            101,
             2748,
             1010,
             2065,
@@ -1790,25 +1502,18 @@
     {
         "input_ids": [
             101,
-            1048,
-            2863,
-            2080,
+            2387,
+            1008,
+            2017,
+            10047,
+            4783,
+            6895,
+            2571,
             102
         ],
         "label": 0,
         "prediction": 1,
-        "decoded_sentence": "lmao"
-    },
-    {
-        "input_ids": [
-            101,
-            21657,
-            999,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "bleak!"
+        "decoded_sentence": "saw * you imbecile"
     },
     {
         "input_ids": [
@@ -1853,58 +1558,6 @@
     {
         "input_ids": [
             101,
-            4365,
-            2017,
-            2323,
-            1005,
-            2310,
-            2253,
-            4229,
-            10047,
-            2080,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "damn you should've went 38 imo"
-    },
-    {
-        "input_ids": [
-            101,
-            3342,
-            2055,
-            1996,
-            3513,
-            2005,
-            25674,
-            2076,
-            1996,
-            1059,
-            2015,
-            1010,
-            2061,
-            2880,
-            2773,
-            2003,
-            2183,
-            2000,
-            3524,
-            2127,
-            2044,
-            2009,
-            1005,
-            1055,
-            2058,
-            1012,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "remember about the rules for announcements during the ws, so official word is going to wait until after it's over."
-    },
-    {
-        "input_ids": [
-            101,
             2065,
             1037,
             2611,
@@ -1923,6 +1576,50 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "if a girl could tackle julio jones he should be ashamed of that"
+    },
+    {
+        "input_ids": [
+            101,
+            999,
+            7160,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "! delta"
+    },
+    {
+        "input_ids": [
+            101,
+            2065,
+            2008,
+            2001,
+            2941,
+            2995,
+            1010,
+            1996,
+            10643,
+            2052,
+            2031,
+            2908,
+            3294,
+            2041,
+            1997,
+            2449,
+            1996,
+            2197,
+            2051,
+            2027,
+            3303,
+            1037,
+            2307,
+            6245,
+            1012,
+            102
+        ],
+        "label": 1,
+        "prediction": 0,
+        "decoded_sentence": "if that was actually true, the republicans would have gone completely out of business the last time they caused a great depression."
     },
     {
         "input_ids": [
@@ -1979,23 +1676,6 @@
     {
         "input_ids": [
             101,
-            1045,
-            2113,
-            2009,
-            2074,
-            13783,
-            2026,
-            2568,
-            1012,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "i know it just blows my mind."
-    },
-    {
-        "input_ids": [
-            101,
             2073,
             1005,
             1055,
@@ -2031,6 +1711,26 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "this must be the director's cut!"
+    },
+    {
+        "input_ids": [
+            101,
+            4687,
+            2339,
+            2027,
+            2196,
+            2031,
+            1037,
+            2067,
+            6620,
+            2930,
+            2205,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "wonder why they never have a back pride section too."
     },
     {
         "input_ids": [
@@ -2150,6 +1850,62 @@
     {
         "input_ids": [
             101,
+            2821,
+            2092,
+            1996,
+            2502,
+            3337,
+            1999,
+            1996,
+            4314,
+            2283,
+            2024,
+            1999,
+            3715,
+            2085,
+            1998,
+            2097,
+            2022,
+            2005,
+            1037,
+            2843,
+            2936,
+            2061,
+            2131,
+            2109,
+            2000,
+            2009,
+            3667,
+            1998,
+            5959,
+            1996,
+            2047,
+            2321,
+            1003,
+            28177,
+            2102,
+            2746,
+            2000,
+            1037,
+            2237,
+            2379,
+            2017,
+            1010,
+            10076,
+            2084,
+            1996,
+            1050,
+            24700,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "oh well the big boys in the liberal party are in charge now and will be for a lot longer so get used to it workers and enjoy the new 15 % gst coming to a town near you, sooner than the nbn."
+    },
+    {
+        "input_ids": [
+            101,
             2002,
             2071,
             2031,
@@ -2165,6 +1921,45 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "he could have gotten someone to take the picture."
+    },
+    {
+        "input_ids": [
+            101,
+            20976,
+            12043,
+            1010,
+            2027,
+            2074,
+            22587,
+            2068,
+            2039,
+            1999,
+            2028,
+            2951,
+            1000,
+            14771,
+            1000,
+            1998,
+            2419,
+            1996,
+            4539,
+            102
+        ],
+        "label": 1,
+        "prediction": 0,
+        "decoded_sentence": "nah dude, they just beamed them up in one data \" packet \" and led the target"
+    },
+    {
+        "input_ids": [
+            101,
+            2035,
+            4744,
+            6853,
+            102
+        ],
+        "label": 1,
+        "prediction": 0,
+        "decoded_sentence": "all truck drivers"
     },
     {
         "input_ids": [
@@ -2202,6 +1997,23 @@
     {
         "input_ids": [
             101,
+            1045,
+            2113,
+            1996,
+            2158,
+            2005,
+            1996,
+            3105,
+            999,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "i know the man for the job!"
+    },
+    {
+        "input_ids": [
+            101,
             2334,
             4126,
             2466,
@@ -2211,20 +2023,6 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "local crime story?"
-    },
-    {
-        "input_ids": [
-            101,
-            2525,
-            2772,
-            2000,
-            6396,
-            2243,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "already signed to nyk"
     },
     {
         "input_ids": [
@@ -2240,21 +2038,6 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "try reading the article again."
-    },
-    {
-        "input_ids": [
-            101,
-            2071,
-            2017,
-            4863,
-            2115,
-            3160,
-            1029,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "could you explain your question?"
     },
     {
         "input_ids": [
@@ -2315,31 +2098,6 @@
     {
         "input_ids": [
             101,
-            2292,
-            1005,
-            1055,
-            2079,
-            1037,
-            5095,
-            5027,
-            2205,
-            2065,
-            2008,
-            1005,
-            1055,
-            3100,
-            2007,
-            2087,
-            2111,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "let's do a saturday afternoon too if that's okay with most people"
-    },
-    {
-        "input_ids": [
-            101,
             1996,
             2935,
             2573,
@@ -2385,37 +2143,32 @@
     {
         "input_ids": [
             101,
-            2009,
-            3475,
-            1005,
-            1056,
-            1037,
-            3601,
-            2021,
-            1037,
-            9095,
-            2043,
-            1996,
-            6263,
-            11897,
-            2515,
-            2025,
-            3499,
-            2017,
-            2000,
-            2490,
-            4426,
-            2044,
-            2871,
-            2847,
+            2053,
+            13827,
             2012,
-            2147,
+            2035,
+            1999,
+            2023,
+            3720,
             1012,
+            102
+        ],
+        "label": 1,
+        "prediction": 0,
+        "decoded_sentence": "no bias at all in this article."
+    },
+    {
+        "input_ids": [
+            101,
+            3533,
+            12631,
+            22084,
+            2099,
             102
         ],
         "label": 0,
         "prediction": 1,
-        "decoded_sentence": "it isn't a choice but a requirement when the minimum wage does not allow you to support yourself after 40 hours at work."
+        "decoded_sentence": "joe kinnear"
     },
     {
         "input_ids": [
@@ -2632,6 +2385,29 @@
     {
         "input_ids": [
             101,
+            10047,
+            2469,
+            2216,
+            2111,
+            19021,
+            6834,
+            2006,
+            1996,
+            6242,
+            2293,
+            2893,
+            18465,
+            2094,
+            1012,
+            102
+        ],
+        "label": 1,
+        "prediction": 0,
+        "decoded_sentence": "im sure those people basking on the boats love getting droned."
+    },
+    {
+        "input_ids": [
+            101,
             1996,
             8867,
             2643,
@@ -2656,58 +2432,55 @@
     {
         "input_ids": [
             101,
-            2339,
-            6752,
-            2007,
-            15401,
-            1029,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "why mess with perfection?"
-    },
-    {
-        "input_ids": [
-            101,
-            6149,
-            2033,
-            2065,
             1045,
-            1005,
-            1049,
-            3308,
-            2021,
-            1045,
-            2245,
-            1039,
-            2509,
-            2361,
-            2692,
-            1998,
-            1054,
-            2475,
-            2094,
-            2475,
-            2288,
-            2037,
-            24629,
-            2006,
-            1996,
-            3328,
-            1997,
-            4476,
-            2077,
-            3400,
-            2130,
-            2234,
+            2074,
+            4197,
             2041,
-            1029,
+            2008,
+            2010,
+            1051,
+            1011,
+            2240,
+            2788,
+            2580,
+            1037,
+            4121,
+            4920,
+            2006,
+            2151,
+            2445,
+            2448,
+            2377,
+            1010,
+            2029,
+            2027,
+            2106,
+            1012,
             102
         ],
         "label": 0,
         "prediction": 1,
-        "decoded_sentence": "correct me if i'm wrong but i thought c3p0 and r2d2 got their footprints on the walk of fame before empire even came out?"
+        "decoded_sentence": "i just pointed out that his o - line usually created a huge hole on any given run play, which they did."
+    },
+    {
+        "input_ids": [
+            101,
+            1037,
+            2158,
+            1005,
+            1055,
+            2208,
+            10954,
+            1037,
+            2158,
+            1005,
+            1055,
+            3976,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "a man's game commands a man's price"
     },
     {
         "input_ids": [
@@ -2807,6 +2580,35 @@
     {
         "input_ids": [
             101,
+            2115,
+            5448,
+            2003,
+            3308,
+            102
+        ],
+        "label": 1,
+        "prediction": 0,
+        "decoded_sentence": "your opinion is wrong"
+    },
+    {
+        "input_ids": [
+            101,
+            17074,
+            2015,
+            1998,
+            16034,
+            2005,
+            2420,
+            22953,
+            102
+        ],
+        "label": 1,
+        "prediction": 0,
+        "decoded_sentence": "hookers and cocaine for days bro"
+    },
+    {
+        "input_ids": [
+            101,
             2009,
             1005,
             1055,
@@ -2823,6 +2625,32 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "it's actually from a sovereign citizens porno."
+    },
+    {
+        "input_ids": [
+            101,
+            24185,
+            4430,
+            24185,
+            4430,
+            24185,
+            4430,
+            2045,
+            1012,
+            1012,
+            1012,
+            1012,
+            2115,
+            10908,
+            2024,
+            13674,
+            2045,
+            999,
+            102
+        ],
+        "label": 1,
+        "prediction": 0,
+        "decoded_sentence": "woah woah woah there.... your expectations are astronomical there!"
     },
     {
         "input_ids": [
@@ -2874,6 +2702,30 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "well it would make our laws more in line with the rest of the world."
+    },
+    {
+        "input_ids": [
+            101,
+            6289,
+            2748,
+            1010,
+            1996,
+            2307,
+            2446,
+            3413,
+            2051,
+            1010,
+            2183,
+            2067,
+            5606,
+            1997,
+            2086,
+            999,
+            102
+        ],
+        "label": 1,
+        "prediction": 0,
+        "decoded_sentence": "ah yes, the great german pass time, going back hundreds of years!"
     },
     {
         "input_ids": [
@@ -3098,18 +2950,15 @@
     {
         "input_ids": [
             101,
-            2031,
-            2017,
-            2699,
-            2025,
-            2725,
-            14492,
-            1029,
+            2033,
+            4168,
+            2058,
+            11066,
             102
         ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "have you tried not doing coke?"
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "meme overload"
     },
     {
         "input_ids": [
@@ -3236,6 +3085,27 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "this needs more fedoras and euphoria."
+    },
+    {
+        "input_ids": [
+            101,
+            2017,
+            2074,
+            2342,
+            2000,
+            4521,
+            2062,
+            10556,
+            2571,
+            7987,
+            27225,
+            4456,
+            21391,
+            102
+        ],
+        "label": 1,
+        "prediction": 0,
+        "decoded_sentence": "you just need to eat more kale bruh cancer cured"
     },
     {
         "input_ids": [
@@ -3412,66 +3282,6 @@
     {
         "input_ids": [
             101,
-            1045,
-            1005,
-            1049,
-            2469,
-            1996,
-            1040,
-            12273,
-            2987,
-            1005,
-            1056,
-            2079,
-            1996,
-            6635,
-            2168,
-            2518,
-            1012,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "i'm sure the dnc doesn't do the exact same thing."
-    },
-    {
-        "input_ids": [
-            101,
-            2633,
-            1037,
-            2866,
-            2136,
-            2131,
-            1005,
-            1055,
-            1999,
-            2000,
-            4013,
-            2223,
-            1010,
-            1998,
-            2009,
-            2987,
-            1005,
-            1056,
-            2031,
-            23114,
-            2015,
-            8950,
-            1999,
-            2054,
-            2024,
-            1996,
-            10238,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "finally a uk team get's in to pro league, and it doesn't have rattlesnk in what are the odds"
-    },
-    {
-        "input_ids": [
-            101,
             2017,
             2018,
             3348,
@@ -3500,21 +3310,26 @@
     {
         "input_ids": [
             101,
-            2748,
+            3398,
             1010,
-            7543,
-            2009,
-            2347,
+            1045,
             1005,
-            1056,
-            1037,
-            16507,
-            1029,
+            1049,
+            2469,
+            2009,
+            2001,
+            2074,
+            2019,
+            15140,
+            4926,
+            1012,
+            1012,
+            1012,
             102
         ],
         "label": 1,
         "prediction": 0,
-        "decoded_sentence": "yes, surely it wasn't a coincidence?"
+        "decoded_sentence": "yeah, i'm sure it was just an unfortunate accident..."
     },
     {
         "input_ids": [
@@ -3528,6 +3343,25 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "use plastic bag."
+    },
+    {
+        "input_ids": [
+            101,
+            2339,
+            2052,
+            2017,
+            4521,
+            2242,
+            2017,
+            2915,
+            2007,
+            2599,
+            1029,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "why would you eat something you shot with lead?"
     },
     {
         "input_ids": [
@@ -3548,6 +3382,25 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "maybe a kevin bacon / william dafoe combo?"
+    },
+    {
+        "input_ids": [
+            101,
+            2168,
+            1010,
+            1045,
+            2228,
+            2087,
+            3071,
+            2038,
+            2464,
+            2009,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "same, i think most everyone has seen it."
     },
     {
         "input_ids": [
@@ -3599,17 +3452,14 @@
     {
         "input_ids": [
             101,
-            10166,
-            1010,
-            2008,
-            1005,
-            1055,
-            17160,
+            6581,
+            2801,
+            1012,
             102
         ],
         "label": 0,
         "prediction": 1,
-        "decoded_sentence": "wow, that's fascinating"
+        "decoded_sentence": "excellent idea."
     },
     {
         "input_ids": [
@@ -3643,6 +3493,41 @@
     {
         "input_ids": [
             101,
+            3398,
+            1010,
+            2017,
+            2089,
+            2131,
+            2032,
+            2067,
+            2021,
+            2059,
+            2017,
+            1005,
+            1040,
+            2031,
+            1996,
+            21883,
+            1997,
+            4209,
+            2017,
+            2064,
+            3288,
+            2111,
+            2067,
+            2007,
+            1996,
+            4118,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "yeah, you may get him back but then you'd have the dilemma of knowing you can bring people back with the method."
+    },
+    {
+        "input_ids": [
+            101,
             23156,
             2017,
             1005,
@@ -3665,25 +3550,6 @@
     {
         "input_ids": [
             101,
-            2023,
-            2052,
-            2191,
-            2005,
-            1037,
-            2307,
-            4038,
-            2430,
-            11080,
-            1012,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "this would make for a great comedy central sketch."
-    },
-    {
-        "input_ids": [
-            101,
             1996,
             2047,
             3556,
@@ -3695,6 +3561,20 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "the new scoreboard does."
+    },
+    {
+        "input_ids": [
+            101,
+            4298,
+            18792,
+            2378,
+            1005,
+            1029,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "possibly trollin '?"
     },
     {
         "input_ids": [
@@ -3720,14 +3600,14 @@
     {
         "input_ids": [
             101,
-            12024,
-            6578,
-            999,
+            2919,
+            2033,
+            7834,
             102
         ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "enthusiasm gap!"
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "bad memes"
     },
     {
         "input_ids": [
@@ -3760,28 +3640,25 @@
     {
         "input_ids": [
             101,
-            2054,
+            2057,
+            2020,
+            2012,
+            4086,
+            11463,
             1005,
             1055,
-            1037,
-            5860,
-            3298,
-            1029,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "what's a disc drive?"
-    },
-    {
-        "input_ids": [
-            101,
-            6744,
+            7483,
+            3666,
+            2004,
+            2023,
+            2001,
+            2579,
+            999,
             102
         ],
         "label": 0,
         "prediction": 1,
-        "decoded_sentence": "jerusalem"
+        "decoded_sentence": "we were at sweet mel's yesterday watching as this was taken!"
     },
     {
         "input_ids": [
@@ -3842,26 +3719,6 @@
     {
         "input_ids": [
             101,
-            2074,
-            2066,
-            2770,
-            1037,
-            3477,
-            12952,
-            8040,
-            3286,
-            2005,
-            2769,
-            1012,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "just like running a paypal scam for money."
-    },
-    {
-        "input_ids": [
-            101,
             2017,
             2064,
             2377,
@@ -3894,52 +3751,6 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "nice strawman!"
-    },
-    {
-        "input_ids": [
-            101,
-            2995,
-            1010,
-            2021,
-            2027,
-            2876,
-            1005,
-            1056,
-            2031,
-            8014,
-            1996,
-            2208,
-            2127,
-            1996,
-            3066,
-            2001,
-            23575,
-            1010,
-            2172,
-            2066,
-            2054,
-            3047,
-            2007,
-            14677,
-            2509,
-            1012,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "true, but they wouldn't have cancelled the game until the deal was finalized, much like what happened with 1313."
-    },
-    {
-        "input_ids": [
-            101,
-            2054,
-            8177,
-            1029,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "what armor?"
     },
     {
         "input_ids": [
@@ -3989,23 +3800,6 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "please point out where i ever said that atheists couldn't also act immorally."
-    },
-    {
-        "input_ids": [
-            101,
-            2204,
-            2518,
-            1045,
-            2031,
-            2053,
-            20464,
-            11514,
-            999,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "good thing i have noclip!"
     },
     {
         "input_ids": [
@@ -4064,57 +3858,6 @@
     {
         "input_ids": [
             101,
-            1045,
-            2031,
-            1037,
-            4317,
-            2896,
-            2303,
-            2502,
-            9222,
-            1998,
-            4632,
-            2061,
-            10047,
-            14180,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "i have a thick lower body big thighs and ass so im screwed"
-    },
-    {
-        "input_ids": [
-            101,
-            2307,
-            1010,
-            1045,
-            1005,
-            1049,
-            2074,
-            3038,
-            1037,
-            7162,
-            1997,
-            1996,
-            7162,
-            3475,
-            1005,
-            1056,
-            2183,
-            2000,
-            2644,
-            2172,
-            1012,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "great, i'm just saying a minority of the minority isn't going to stop much."
-    },
-    {
-        "input_ids": [
-            101,
             2035,
             6735,
             3336,
@@ -4160,20 +3903,15 @@
     {
         "input_ids": [
             101,
-            1045,
-            2488,
-            17542,
-            2026,
-            3653,
-            1011,
-            2344,
-            2085,
-            999,
+            20228,
+            2015,
+            5587,
+            21074,
             102
         ],
         "label": 1,
         "prediction": 0,
-        "decoded_sentence": "i better cancel my pre - order now!"
+        "decoded_sentence": "pls add volvo"
     },
     {
         "input_ids": [
@@ -4204,6 +3942,37 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "all the russians"
+    },
+    {
+        "input_ids": [
+            101,
+            1045,
+            1005,
+            1049,
+            2469,
+            2016,
+            2052,
+            2145,
+            2424,
+            1037,
+            2126,
+            2000,
+            17612,
+            2065,
+            2273,
+            2106,
+            3477,
+            2014,
+            2000,
+            2022,
+            2014,
+            2767,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "i'm sure she would still find a way to complain if men did pay her to be her friend."
     },
     {
         "input_ids": [
@@ -4247,15 +4016,24 @@
     {
         "input_ids": [
             101,
-            16931,
-            2015,
-            1012,
+            1045,
+            2298,
+            2830,
+            2000,
+            5008,
+            2017,
+            1999,
+            1996,
+            2227,
+            1010,
+            2204,
+            2909,
             1012,
             102
         ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "rifts.."
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "i look forward to shooting you in the face, good sir."
     },
     {
         "input_ids": [
@@ -4310,54 +4088,16 @@
     {
         "input_ids": [
             101,
-            2061,
-            2057,
-            1005,
-            2128,
-            10262,
-            2008,
-            2474,
-            16515,
-            2099,
-            2003,
-            1996,
-            2269,
-            1997,
-            1054,
-            25293,
-            16118,
-            3148,
-            1005,
-            1055,
-            2093,
-            4124,
-            1029,
+            1045,
+            2081,
+            1037,
+            8398,
+            3578,
             102
         ],
         "label": 0,
         "prediction": 1,
-        "decoded_sentence": "so we're assuming that laenor is the father of rhaenrya's three sons?"
-    },
-    {
-        "input_ids": [
-            101,
-            2007,
-            2048,
-            2867,
-            1999,
-            1996,
-            2327,
-            1019,
-            1997,
-            2223,
-            10835,
-            2015,
-            1012,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "with two players in the top 5 of league scorers."
+        "decoded_sentence": "i made a trump tower"
     },
     {
         "input_ids": [
@@ -4404,27 +4144,6 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "i still haven't gotten an email from you guys"
-    },
-    {
-        "input_ids": [
-            101,
-            2453,
-            2022,
-            7823,
-            2000,
-            2191,
-            1996,
-            7555,
-            2023,
-            2397,
-            1999,
-            1996,
-            2161,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "might be tough to make the playoffs this late in the season"
     },
     {
         "input_ids": [
@@ -4730,55 +4449,6 @@
     {
         "input_ids": [
             101,
-            2748,
-            3849,
-            2062,
-            2066,
-            2009,
-            1010,
-            2002,
-            2081,
-            1996,
-            4070,
-            2000,
-            2272,
-            2006,
-            1054,
-            1013,
-            11089,
-            2050,
-            2475,
-            2000,
-            2360,
-            2204,
-            2477,
-            2055,
-            2009,
-            1998,
-            2084,
-            2360,
-            18667,
-            1999,
-            2010,
-            7928,
-            2055,
-            8840,
-            2140,
-            1010,
-            2002,
-            5525,
-            2209,
-            2009,
-            1012,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "yes seems more like it, he made the account to come on r / dota2 to say good things about it and than say bs in his comments about lol, he obviously played it."
-    },
-    {
-        "input_ids": [
-            101,
             3398,
             2002,
             5493,
@@ -4811,26 +4481,6 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "you're funny."
-    },
-    {
-        "input_ids": [
-            101,
-            2672,
-            2065,
-            2027,
-            3047,
-            2000,
-            2022,
-            5152,
-            1010,
-            2027,
-            2052,
-            1012,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "maybe if they happened to be muslim, they would."
     },
     {
         "input_ids": [
@@ -4924,61 +4574,39 @@
     {
         "input_ids": [
             101,
-            2138,
-            2065,
-            2045,
-            1005,
-            1055,
-            2028,
-            2518,
-            20421,
-            6620,
-            2015,
-            2993,
-            2006,
-            1010,
-            2009,
-            1005,
-            1055,
-            6742,
-            3012,
-            1012,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "because if there's one thing pokemon prides itself on, it's practicality."
-    },
-    {
-        "input_ids": [
-            101,
-            2106,
-            2017,
-            3335,
+            6300,
+            2050,
+            1045,
+            2123,
+            2102,
+            2215,
+            2000,
+            7868,
+            2505,
+            27218,
+            2127,
+            2049,
+            3929,
+            2988,
+            1999,
             1996,
-            2521,
-            2157,
-            3861,
-            1029,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "did you miss the far right picture?"
-    },
-    {
-        "input_ids": [
-            101,
+            4035,
+            1012,
+            1012,
+            1012,
+            2821,
+            3524,
             2027,
-            2031,
-            2026,
-            11883,
+            2180,
+            2102,
+            3189,
+            2023,
             1012,
             102
         ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "they have my sympathy."
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "yea i dont want to assume anything atm until its fully reported in the bbc... oh wait they wont report this."
     },
     {
         "input_ids": [
@@ -5063,29 +4691,6 @@
     {
         "input_ids": [
             101,
-            2138,
-            2002,
-            2056,
-            2009,
-            2000,
-            2370,
-            1999,
-            2010,
-            2132,
-            1999,
-            1037,
-            22473,
-            5450,
-            1012,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "because he said it to himself in his head in a sarcastic manner."
-    },
-    {
-        "input_ids": [
-            101,
             2085,
             2074,
             2228,
@@ -5154,23 +4759,6 @@
     {
         "input_ids": [
             101,
-            2035,
-            5328,
-            1997,
-            2256,
-            24859,
-            2024,
-            11007,
-            2567,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "all views of our savior are worthy brother"
-    },
-    {
-        "input_ids": [
-            101,
             4165,
             2066,
             2017,
@@ -5218,6 +4806,24 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "yea maybe defense should get some new perk and just put vitality and immunity together."
+    },
+    {
+        "input_ids": [
+            101,
+            1996,
+            14542,
+            2291,
+            2053,
+            2936,
+            6526,
+            1999,
+            2634,
+            1012,
+            102
+        ],
+        "label": 1,
+        "prediction": 0,
+        "decoded_sentence": "the caste system no longer exists in india."
     },
     {
         "input_ids": [
@@ -5323,6 +4929,27 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "modlist pls."
+    },
+    {
+        "input_ids": [
+            101,
+            17227,
+            17395,
+            2365,
+            1010,
+            2021,
+            1045,
+            1005,
+            1049,
+            2025,
+            12344,
+            2153,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "stellar bait son, but i'm not biting again."
     },
     {
         "input_ids": [
@@ -5446,24 +5073,6 @@
     {
         "input_ids": [
             101,
-            1996,
-            25982,
-            2773,
-            1031,
-            1996,
-            3647,
-            2466,
-            1012,
-            1033,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "the unspoken word [ the safe story. ]"
-    },
-    {
-        "input_ids": [
-            101,
             2049,
             6429,
             2129,
@@ -5519,61 +5128,111 @@
     {
         "input_ids": [
             101,
-            24185,
-            4430,
+            1012,
+            1012,
+            1012,
+            4365,
             1010,
-            2085,
+            2323,
+            2031,
+            5552,
+            2035,
+            2008,
+            2668,
+            1045,
+            2001,
+            18138,
+            2075,
+            2013,
+            14234,
+            6386,
+            2612,
+            1997,
+            2568,
+            10895,
+            23519,
+            2009,
             1010,
-            2292,
+            2672,
+            1045,
+            2071,
+            2022,
+            1037,
+            10722,
+            14905,
+            20974,
+            5722,
+            2065,
+            1045,
+            4711,
+            2009,
+            1999,
+            2619,
             1005,
             1055,
-            2025,
-            2131,
-            2205,
-            20505,
-            1012,
+            2227,
             102
         ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "woah, now, let's not get too greedy."
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "... damn, should have saved all that blood i was pissing from kidney stones instead of mindlessly flushing it, maybe i could be a tumblr legend if i threw it in someone's face"
     },
     {
         "input_ids": [
             101,
-            2065,
-            1996,
-            14390,
-            1011,
-            14169,
+            1045,
+            14145,
+            2080,
+            2009,
             2001,
-            18474,
+            1999,
+            1996,
+            7615,
+            2930,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "i dunno it was in the comment section."
+    },
+    {
+        "input_ids": [
+            101,
+            1997,
+            1008,
+            2607,
+            1008,
+            2273,
+            1005,
+            1055,
+            6699,
+            2024,
+            2579,
+            2062,
+            5667,
             1010,
             2057,
-            2052,
+            2069,
             2031,
-            2180,
+            2048,
+            1997,
+            2068,
+            1024,
+            1000,
+            4963,
+            1000,
+            1998,
+            1000,
+            7109,
+            9961,
+            1000,
             1012,
             102
         ],
         "label": 1,
         "prediction": 0,
-        "decoded_sentence": "if the colts - broncos was primetime, we would have won."
-    },
-    {
-        "input_ids": [
-            101,
-            2023,
-            2003,
-            2339,
-            1045,
-            2342,
-            20050,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "this is why i need feminism"
+        "decoded_sentence": "of * course * men's emotions are taken more seriously, we only have two of them : \" anger \" and \" horniness \"."
     },
     {
         "input_ids": [
@@ -5737,6 +5396,18 @@
     {
         "input_ids": [
             101,
+            2005,
+            2054,
+            1029,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "for what?"
+    },
+    {
+        "input_ids": [
+            101,
             2035,
             4676,
             2003,
@@ -5752,23 +5423,19 @@
     {
         "input_ids": [
             101,
-            1045,
-            1005,
-            1040,
-            2031,
-            2178,
-            3124,
-            2292,
-            2033,
-            2663,
-            1999,
-            2797,
-            2645,
+            2442,
+            2022,
+            2070,
+            2919,
+            3869,
+            11937,
+            3597,
+            1012,
             102
         ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "i'd have another guy let me win in private battle"
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "must be some bad fish taco."
     },
     {
         "input_ids": [
@@ -5786,29 +5453,6 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "so much for the bnet drm"
-    },
-    {
-        "input_ids": [
-            101,
-            4983,
-            2027,
-            1005,
-            2128,
-            2829,
-            17490,
-            26813,
-            1010,
-            2059,
-            2009,
-            1005,
-            1055,
-            2145,
-            10130,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "unless they're brown nutbags, then it's still terrorism"
     },
     {
         "input_ids": [
@@ -5863,30 +5507,6 @@
     {
         "input_ids": [
             101,
-            1037,
-            3020,
-            4946,
-            1997,
-            4598,
-            2005,
-            2111,
-            2040,
-            2031,
-            9099,
-            23865,
-            2098,
-            2037,
-            4230,
-            1012,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "a higher plane of existence for people who have transcended their bodies."
-    },
-    {
-        "input_ids": [
-            101,
             2008,
             1005,
             1055,
@@ -5901,34 +5521,6 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "that's true & amp ; important."
-    },
-    {
-        "input_ids": [
-            101,
-            2052,
-            2017,
-            2428,
-            2215,
-            2000,
-            2022,
-            2505,
-            2842,
-            2060,
-            2084,
-            1000,
-            2488,
-            2125,
-            2059,
-            10514,
-            17190,
-            9264,
-            1029,
-            1000,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "would you really want to be anything else other than \" better off then suadi arabia? \""
     },
     {
         "input_ids": [
@@ -6046,16 +5638,15 @@
     {
         "input_ids": [
             101,
-            1009,
-            1013,
-            1011,
-            5525,
+            2216,
+            3532,
+            2111,
             1012,
             102
         ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "+ / - obviously."
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "those poor people."
     },
     {
         "input_ids": [
@@ -6135,6 +5726,33 @@
     {
         "input_ids": [
             101,
+            2030,
+            2027,
+            2024,
+            6015,
+            2011,
+            1996,
+            3522,
+            4530,
+            1998,
+            2215,
+            2000,
+            2156,
+            2065,
+            18411,
+            2278,
+            27790,
+            2015,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "or they are scared by the recent drop and want to see if btc stabilizes."
+    },
+    {
+        "input_ids": [
+            101,
             11465,
             1010,
             2990,
@@ -6149,25 +5767,6 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "crow, jackdaw, same thing."
-    },
-    {
-        "input_ids": [
-            101,
-            4283,
-            2005,
-            2236,
-            6026,
-            2035,
-            1997,
-            2149,
-            1010,
-            6775,
-            999,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "thanks for generalizing all of us, mate!"
     },
     {
         "input_ids": [
@@ -6259,18 +5858,6 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "arin hanson : 60 % of the time, he's right every time."
-    },
-    {
-        "input_ids": [
-            101,
-            7305,
-            2338,
-            22953,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "reed book bro"
     },
     {
         "input_ids": [
@@ -6370,35 +5957,43 @@
     {
         "input_ids": [
             101,
-            11089,
-            2050,
-            28543,
-            7396,
-            2022,
-            10841,
-            11022,
-            1045,
-            2064,
-            2102,
-            2404,
-            2685,
-            2046,
-            1037,
-            5848,
-            3392,
-            2008,
-            3084,
-            2033,
-            6428,
-            2006,
-            2399,
-            7559,
-            2102,
+            2987,
+            1005,
+            1056,
+            1010,
+            3043,
+            1010,
+            15703,
+            1010,
+            2000,
+            1010,
+            3191,
             102
         ],
         "label": 1,
         "prediction": 0,
-        "decoded_sentence": "dota shitty client becuase i cant put points into a talent tree that makes me stronger on gamestart"
+        "decoded_sentence": "doesn't, matter, annoying, to, read"
+    },
+    {
+        "input_ids": [
+            101,
+            2196,
+            2265,
+            2619,
+            2019,
+            8750,
+            2017,
+            1005,
+            2310,
+            2196,
+            3427,
+            3929,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "never show someone an anime you've never watched fully."
     },
     {
         "input_ids": [
@@ -6414,6 +6009,87 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "here on reddit we use"
+    },
+    {
+        "input_ids": [
+            101,
+            13827,
+            22854,
+            2290,
+            9680,
+            10814,
+            2099,
+            1010,
+            14689,
+            1011,
+            21824,
+            1010,
+            2012,
+            24529,
+            11905,
+            20917,
+            1010,
+            24547,
+            2050,
+            16660,
+            2290,
+            5003,
+            2912,
+            4502,
+            13512,
+            25090,
+            23877,
+            2319,
+            20657,
+            2739,
+            2865,
+            12835,
+            28852,
+            2078,
+            999,
+            102
+        ],
+        "label": 1,
+        "prediction": 0,
+        "decoded_sentence": "bias yung rappler, abs - cbn, at tsaka gma, wala nang makapagtitiwalaan pang news media ngayon!"
+    },
+    {
+        "input_ids": [
+            101,
+            1998,
+            1045,
+            2245,
+            1045,
+            2001,
+            12266,
+            2138,
+            1045,
+            2224,
+            2214,
+            3604,
+            7341,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "and i thought i was clever because i use old travel maps."
+    },
+    {
+        "input_ids": [
+            101,
+            1998,
+            5925,
+            4836,
+            2009,
+            1012,
+            1012,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "and abc aired it..."
     },
     {
         "input_ids": [
@@ -6460,6 +6136,28 @@
     {
         "input_ids": [
             101,
+            2025,
+            2000,
+            5254,
+            2888,
+            10862,
+            2081,
+            2032,
+            2010,
+            7743,
+            7188,
+            2057,
+            2209,
+            2068,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "not to mention henry consistently made him his bitch whenever we played them"
+    },
+    {
+        "input_ids": [
+            101,
             9425,
             13735,
             2061,
@@ -6487,6 +6185,34 @@
     {
         "input_ids": [
             101,
+            12815,
+            1005,
+            1055,
+            22201,
+            13537,
+            1999,
+            1037,
+            10097,
+            2100,
+            2003,
+            2643,
+            1005,
+            1055,
+            4602,
+            4325,
+            1999,
+            2023,
+            5304,
+            1012,
+            102
+        ],
+        "label": 1,
+        "prediction": 0,
+        "decoded_sentence": "wendy's fries dipped in a frosty is god's greatest creation in this universe."
+    },
+    {
+        "input_ids": [
+            101,
             2017,
             2812,
             14234,
@@ -6503,26 +6229,20 @@
     {
         "input_ids": [
             101,
-            2021,
-            2009,
-            2499,
-            2007,
-            2256,
-            5016,
-            18847,
-            15909,
-            2232,
-            1997,
-            4945,
+            9805,
+            2361,
+            2023,
+            2573,
             1010,
-            12188,
-            1052,
-            28067,
+            2062,
+            3579,
+            5262,
+            1012,
             102
         ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "but it worked with our giant monolith of failure, hawaiian pfalls"
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "yup this works, more focus indeed."
     },
     {
         "input_ids": [
@@ -6601,69 +6321,6 @@
     {
         "input_ids": [
             101,
-            2053,
-            1010,
-            1045,
-            1005,
-            1049,
-            2145,
-            3492,
-            2469,
-            2008,
-            2082,
-            8631,
-            1060,
-            2094,
-            2021,
-            2065,
-            1045,
-            2001,
-            4083,
-            2822,
-            2009,
-            2453,
-            2031,
-            2042,
-            1037,
-            18819,
-            2062,
-            5875,
-            999,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "no, i'm still pretty sure that school sucked xd but if i was learning chinese it might have been a tad more interesting!"
-    },
-    {
-        "input_ids": [
-            101,
-            1037,
-            3376,
-            2617,
-            2182,
-            1999,
-            2417,
-            23194,
-            2381,
-            1010,
-            1037,
-            5310,
-            1998,
-            1037,
-            16913,
-            2893,
-            2247,
-            1012,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "a beautiful moment here in reddit history, a user and a mod getting along."
-    },
-    {
-        "input_ids": [
-            101,
             2763,
             4647,
             12022,
@@ -6673,6 +6330,21 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "probably bc junya"
+    },
+    {
+        "input_ids": [
+            101,
+            2507,
+            2068,
+            1037,
+            3338,
+            2158,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "give them a break man."
     },
     {
         "input_ids": [
@@ -6760,20 +6432,6 @@
     {
         "input_ids": [
             101,
-            4658,
-            2178,
-            4003,
-            2208,
-            999,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "cool another card game!"
-    },
-    {
-        "input_ids": [
-            101,
             1005,
             5718,
             2003,
@@ -6842,6 +6500,26 @@
     {
         "input_ids": [
             101,
+            2619,
+            2987,
+            1005,
+            1056,
+            2113,
+            2054,
+            1000,
+            5793,
+            1000,
+            2965,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "someone doesn't know what \" obvious \" means."
+    },
+    {
+        "input_ids": [
+            101,
             2106,
             1996,
             4831,
@@ -6856,38 +6534,6 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "did the pope forget radical muslims hate christians?"
-    },
-    {
-        "input_ids": [
-            101,
-            3398,
-            1012,
-            1012,
-            1012,
-            18625,
-            2115,
-            2103,
-            1999,
-            2634,
-            2097,
-            2025,
-            2079,
-            20348,
-            2017,
-            1010,
-            4983,
-            2017,
-            2444,
-            1999,
-            16371,
-            10024,
-            3028,
-            1012,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "yeah... mentioning your city in india will not doxx you, unless you live in nubra valley."
     },
     {
         "input_ids": [
@@ -6914,6 +6560,21 @@
     {
         "input_ids": [
             101,
+            4283,
+            2005,
+            1996,
+            16030,
+            3437,
+            999,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "thanks for the thorough answer!"
+    },
+    {
+        "input_ids": [
+            101,
             1000,
             2017,
             2488,
@@ -6927,40 +6588,6 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "\" you better get your life! \""
-    },
-    {
-        "input_ids": [
-            101,
-            1045,
-            1005,
-            1049,
-            3010,
-            1998,
-            1045,
-            2572,
-            28089,
-            3407,
-            2008,
-            1045,
-            2481,
-            1005,
-            1056,
-            6807,
-            2032,
-            2127,
-            2010,
-            2171,
-            2001,
-            2056,
-            2006,
-            1996,
-            3743,
-            1012,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "i'm canadian and i am profoundly happy that i couldn't recognize him until his name was said on the broadcast."
     },
     {
         "input_ids": [
@@ -7038,27 +6665,6 @@
     {
         "input_ids": [
             101,
-            3398,
-            1010,
-            1045,
-            1005,
-            2310,
-            3856,
-            2039,
-            6386,
-            1998,
-            3856,
-            14568,
-            1012,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "yeah, i've picked up stones and picked bushes."
-    },
-    {
-        "input_ids": [
-            101,
             2045,
             1005,
             1055,
@@ -7077,6 +6683,20 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "there's this handy little notation we folks use for sarcasm :"
+    },
+    {
+        "input_ids": [
+            101,
+            2023,
+            2003,
+            9040,
+            3226,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "this is rape culture."
     },
     {
         "input_ids": [
@@ -7118,22 +6738,6 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "you're a true irish gentleman"
-    },
-    {
-        "input_ids": [
-            101,
-            18218,
-            5443,
-            20514,
-            2107,
-            3733,
-            2674,
-            2039,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "lucian vs olaf such easy match up"
     },
     {
         "input_ids": [
@@ -7207,20 +6811,20 @@
     {
         "input_ids": [
             101,
-            2008,
-            1005,
-            1055,
+            1045,
+            2514,
             2066,
-            2070,
-            2279,
-            2504,
-            3313,
-            14739,
+            2008,
+            2678,
+            3092,
+            2205,
+            2574,
+            1012,
             102
         ],
         "label": 0,
         "prediction": 1,
-        "decoded_sentence": "that's like some next level double posting"
+        "decoded_sentence": "i feel like that video ended too soon."
     },
     {
         "input_ids": [
@@ -7240,6 +6844,20 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "screw the others who enjoyed the one getting removed?"
+    },
+    {
+        "input_ids": [
+            101,
+            6819,
+            2243,
+            25312,
+            12669,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "vik fra meg."
     },
     {
         "input_ids": [
@@ -7308,31 +6926,6 @@
     {
         "input_ids": [
             101,
-            2016,
-            5525,
-            2170,
-            2588,
-            1996,
-            4542,
-            2007,
-            2014,
-            6965,
-            17974,
-            1011,
-            1054,
-            1013,
-            1996,
-            1035,
-            4945,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "she obviously called upon the rain with her witch recipe - r / the _ failure"
-    },
-    {
-        "input_ids": [
-            101,
             1045,
             2123,
             1005,
@@ -7353,24 +6946,6 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "i don't see anything out of the ordinary for this subreddit"
-    },
-    {
-        "input_ids": [
-            101,
-            2017,
-            2614,
-            2066,
-            1037,
-            2613,
-            11139,
-            5794,
-            4667,
-            6926,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "you sound like a real upstanding citizen"
     },
     {
         "input_ids": [
@@ -7415,28 +6990,41 @@
     {
         "input_ids": [
             101,
-            3398,
-            1010,
-            1045,
-            1005,
-            1040,
-            2293,
-            2000,
-            2963,
-            2023,
-            1999,
-            2392,
-            1997,
-            2014,
-            2030,
-            7494,
-            2797,
+            2138,
+            2703,
             4575,
+            1010,
+            2040,
+            2145,
+            6753,
+            2021,
+            2515,
+            2025,
+            8851,
+            3049,
+            2005,
+            6221,
+            8398,
+            1010,
+            2052,
+            2022,
+            4276,
+            1021,
+            2685,
+            9582,
+            2065,
+            2002,
+            2020,
+            2006,
+            1996,
+            3049,
+            4446,
+            1012,
             102
         ],
         "label": 1,
         "prediction": 0,
-        "decoded_sentence": "yeah, i'd love to hear this in front of her or saving private ryan"
+        "decoded_sentence": "because paul ryan, who still supports but does not actively campaign for donald trump, would be worth 7 points nationally if he were on the campaign trail."
     },
     {
         "input_ids": [
@@ -7545,19 +7133,29 @@
     {
         "input_ids": [
             101,
-            2138,
-            2008,
-            1005,
-            1055,
-            1996,
             2488,
-            5724,
+            2000,
+            2031,
+            5598,
+            1998,
+            5357,
+            4257,
+            2006,
+            2256,
+            5344,
+            2084,
+            2196,
+            2000,
+            2031,
+            5598,
+            2012,
+            2035,
             1012,
             102
         ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "because that's the better option."
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "better to have jumped and fallen flat on our faces than never to have jumped at all."
     },
     {
         "input_ids": [
@@ -7584,105 +7182,6 @@
     {
         "input_ids": [
             101,
-            3644,
-            2182,
-            1010,
-            3644,
-            2045,
-            1010,
-            3644,
-            1010,
-            11687,
-            2721,
-            1010,
-            7249,
-            999,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "jewish here, jewish there, jewish, padla, everywhere!"
-    },
-    {
-        "input_ids": [
-            101,
-            1037,
-            2126,
-            2000,
-            2393,
-            24251,
-            2023,
-            2052,
-            2022,
-            2000,
-            2191,
-            2009,
-            2008,
-            2296,
-            2915,
-            2006,
-            1037,
-            12406,
-            2447,
-            3138,
-            1011,
-            2531,
-            26726,
-            1998,
-            1011,
-            1015,
-            1010,
-            2199,
-            1010,
-            2199,
-            1010,
-            25897,
-            6495,
-            2013,
-            2068,
-            2036,
-            1012,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "a way to help alleviate this would be to make it that every shot on a rogue player takes - 100 xp and - 1, 000, 000, 999 credits from them also."
-    },
-    {
-        "input_ids": [
-            101,
-            7543,
-            2025,
-            1011,
-            2129,
-            2071,
-            2037,
-            2365,
-            11557,
-            2022,
-            2357,
-            2304,
-            2007,
-            1037,
-            8364,
-            2065,
-            2002,
-            2001,
-            2525,
-            2304,
-            2000,
-            4088,
-            2007,
-            1029,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "surely not - how could their son cain be turned black with a curse if he was already black to begin with?"
-    },
-    {
-        "input_ids": [
-            101,
             8038,
             2100,
             2100,
@@ -7697,6 +7196,21 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "yayyyyyy dlc"
+    },
+    {
+        "input_ids": [
+            101,
+            3391,
+            2006,
+            2149,
+            2267,
+            13696,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "particularly on us college campuses."
     },
     {
         "input_ids": [
@@ -7764,19 +7278,24 @@
     {
         "input_ids": [
             101,
-            2070,
-            2785,
-            1997,
-            23848,
-            20414,
-            3899,
-            3788,
+            1008,
+            28837,
+            3759,
+            1008,
+            2123,
+            1005,
+            1056,
+            2017,
+            2812,
+            1996,
+            9608,
+            3924,
             1029,
             102
         ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "some kind of maglev dog walking?"
+        "label": 1,
+        "prediction": 0,
+        "decoded_sentence": "* clears throat * don't you mean the reasonable ones?"
     },
     {
         "input_ids": [
@@ -7788,69 +7307,6 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "shepard."
-    },
-    {
-        "input_ids": [
-            101,
-            1996,
-            5202,
-            8656,
-            2020,
-            2785,
-            1997,
-            2079,
-            19140,
-            26813,
-            1998,
-            2037,
-            5939,
-            21578,
-            9289,
-            1040,
-            1011,
-            4524,
-            4590,
-            2100,
-            2599,
-            2000,
-            1996,
-            5202,
-            2162,
-            4786,
-            1996,
-            2331,
-            1997,
-            2116,
-            13926,
-            2015,
-            1010,
-            2065,
-            3638,
-            4240,
-            1012,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "the dragon priests were kind of douchebags and their tyranical d - baggery lead to the dragon war causing the death of many nords, if memory serves."
-    },
-    {
-        "input_ids": [
-            101,
-            10047,
-            2469,
-            2023,
-            2092,
-            2203,
-            2092,
-            2005,
-            2859,
-            1012,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "im sure this well end well for china."
     },
     {
         "input_ids": [
@@ -7891,6 +7347,31 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "fuck speedhackers"
+    },
+    {
+        "input_ids": [
+            101,
+            1045,
+            2123,
+            2102,
+            3422,
+            2374,
+            2021,
+            1045,
+            2097,
+            2022,
+            15807,
+            2005,
+            2035,
+            2026,
+            19033,
+            2040,
+            2079,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "i dont watch football but i will be offended for all my comrades who do"
     },
     {
         "input_ids": [
@@ -8049,6 +7530,28 @@
     {
         "input_ids": [
             101,
+            2123,
+            1005,
+            1056,
+            5293,
+            2000,
+            2811,
+            1996,
+            1018,
+            11287,
+            2000,
+            20544,
+            2010,
+            25422,
+            102
+        ],
+        "label": 1,
+        "prediction": 0,
+        "decoded_sentence": "don't forget to press the 4 buttons to activate his doorbell"
+    },
+    {
+        "input_ids": [
+            101,
             4283,
             2005,
             12786,
@@ -8100,6 +7603,71 @@
     {
         "input_ids": [
             101,
+            2013,
+            2054,
+            1045,
+            3305,
+            1997,
+            1996,
+            2197,
+            2240,
+            2013,
+            2047,
+            13910,
+            2290,
+            1010,
+            2017,
+            2031,
+            1037,
+            16216,
+            14821,
+            2025,
+            2019,
+            1050,
+            17258,
+            2401,
+            2947,
+            2115,
+            4003,
+            2003,
+            2025,
+            4986,
+            2011,
+            1996,
+            9870,
+            1012,
+            102
+        ],
+        "label": 1,
+        "prediction": 0,
+        "decoded_sentence": "from what i understand of the last line from newegg, you have a geforce not an nvidia thus your card is not concerned by the lawsuit."
+    },
+    {
+        "input_ids": [
+            101,
+            2065,
+            2069,
+            2045,
+            2001,
+            2070,
+            2126,
+            2000,
+            3193,
+            1037,
+            11744,
+            2381,
+            1012,
+            1012,
+            1012,
+            102
+        ],
+        "label": 1,
+        "prediction": 0,
+        "decoded_sentence": "if only there was some way to view a websites history..."
+    },
+    {
+        "input_ids": [
+            101,
             2323,
             2022,
             4760,
@@ -8117,22 +7685,6 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "should be showing up on msm any moment..."
-    },
-    {
-        "input_ids": [
-            101,
-            2008,
-            1005,
-            1055,
-            2019,
-            12476,
-            12652,
-            1012,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "that's an awesome motto."
     },
     {
         "input_ids": [
@@ -8241,19 +7793,6 @@
     {
         "input_ids": [
             101,
-            2017,
-            2323,
-            2681,
-            1012,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "you should leave."
-    },
-    {
-        "input_ids": [
-            101,
             1045,
             2253,
             2000,
@@ -8311,33 +7850,6 @@
     {
         "input_ids": [
             101,
-            2053,
-            2293,
-            2005,
-            2175,
-            27887,
-            3089,
-            1024,
-            1006,
-            3513,
-            2024,
-            3214,
-            2000,
-            2022,
-            3714,
-            1010,
-            2375,
-            26860,
-            999,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "no love for golgari : ( rules are meant to be broken, lawmage!"
-    },
-    {
-        "input_ids": [
-            101,
             2001,
             2028,
             1997,
@@ -8353,35 +7865,6 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "was one of them named \" greedo \"?"
-    },
-    {
-        "input_ids": [
-            101,
-            16780,
-            2055,
-            10122,
-            16913,
-            2015,
-            1010,
-            2021,
-            16233,
-            2102,
-            2323,
-            2022,
-            2041,
-            2045,
-            2043,
-            2049,
-            2041,
-            2005,
-            8827,
-            2549,
-            1012,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "nope about console mods, but dst should be out there when its out for ps4."
     },
     {
         "input_ids": [
@@ -8467,25 +7950,6 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "and the 3 years spent trying naturally trying to time ovulation, the year under fertility medications followed by insemenations and the several extremely expensive failed invitro fertilization attempts would have all not been necessary for many people if they would have just calmed down and relaxed."
-    },
-    {
-        "input_ids": [
-            101,
-            1996,
-            16776,
-            7875,
-            9541,
-            2112,
-            2003,
-            2995,
-            2295,
-            1024,
-            1052,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "the weeaboo part is true though : p"
     },
     {
         "input_ids": [
@@ -8690,6 +8154,33 @@
     {
         "input_ids": [
             101,
+            1045,
+            1005,
+            1049,
+            4527,
+            2129,
+            2116,
+            5023,
+            3565,
+            2190,
+            2814,
+            2045,
+            2024,
+            1999,
+            2151,
+            4942,
+            5596,
+            23194,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "i'm surprised how many hidden super best friends there are in any subreddit."
+    },
+    {
+        "input_ids": [
+            101,
             2092,
             2059,
             2002,
@@ -8718,29 +8209,6 @@
         "label": 1,
         "prediction": 0,
         "decoded_sentence": "stop leaking"
-    },
-    {
-        "input_ids": [
-            101,
-            2017,
-            2228,
-            6737,
-            2003,
-            2919,
-            1010,
-            2298,
-            2012,
-            2054,
-            1045,
-            2288,
-            5881,
-            2007,
-            1029,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "you think yours is bad, look at what i got stuck with?"
     },
     {
         "input_ids": [
@@ -8777,6 +8245,41 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "lol it automatically does it for you"
+    },
+    {
+        "input_ids": [
+            101,
+            2021,
+            11608,
+            3084,
+            2070,
+            4365,
+            2986,
+            13215,
+            3941,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "but coleman makes some damn fine camping equipment."
+    },
+    {
+        "input_ids": [
+            101,
+            10166,
+            4165,
+            2066,
+            1037,
+            2307,
+            2694,
+            2265,
+            999,
+            102
+        ],
+        "label": 1,
+        "prediction": 0,
+        "decoded_sentence": "wow sounds like a great tv show!"
     },
     {
         "input_ids": [
@@ -8877,43 +8380,6 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "you don't know what chavs are then, clearly."
-    },
-    {
-        "input_ids": [
-            101,
-            2106,
-            3124,
-            3102,
-            2017,
-            1029,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "did guy kill you?"
-    },
-    {
-        "input_ids": [
-            101,
-            2092,
-            2655,
-            2032,
-            2041,
-            2006,
-            2009,
-            1010,
-            2002,
-            2001,
-            2108,
-            2812,
-            2000,
-            2033,
-            999,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "well call him out on it, he was being mean to me!"
     },
     {
         "input_ids": [
@@ -9083,14 +8549,64 @@
     {
         "input_ids": [
             101,
-            1045,
-            9544,
-            11449,
+            2053,
+            1010,
+            2021,
+            2104,
+            16498,
+            2017,
+            2079,
+            2031,
+            2000,
+            2175,
+            2041,
+            1997,
+            2115,
+            2126,
+            2000,
+            18478,
+            6114,
+            1010,
+            2029,
+            2001,
+            7596,
+            4502,
+            4502,
+            3148,
+            1005,
+            1055,
+            2060,
+            2391,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "no, but under capitalism you do have to go out of your way to minimize suffering, which was rocketpapaya's other point."
+    },
+    {
+        "input_ids": [
+            101,
+            1996,
+            5213,
+            2718,
+            2032,
+            2061,
+            2524,
+            2008,
+            2009,
+            5941,
+            1037,
+            25641,
+            1999,
+            2010,
+            8999,
+            999,
             102
         ],
         "label": 1,
         "prediction": 0,
-        "decoded_sentence": "i prefer revelation"
+        "decoded_sentence": "the shock hit him so hard that it snapped a ligament in his elbow!"
     },
     {
         "input_ids": [
@@ -9113,6 +8629,35 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "i assume she is too smart to go down with this sinking ship"
+    },
+    {
+        "input_ids": [
+            101,
+            3513,
+            2123,
+            1005,
+            1056,
+            6611,
+            2000,
+            1055,
+            3501,
+            9333,
+            1010,
+            2027,
+            1005,
+            2128,
+            2488,
+            2084,
+            1996,
+            2717,
+            1997,
+            2149,
+            1012,
+            102
+        ],
+        "label": 1,
+        "prediction": 0,
+        "decoded_sentence": "rules don't apply to sjws, they're better than the rest of us."
     },
     {
         "input_ids": [
@@ -9215,6 +8760,31 @@
     {
         "input_ids": [
             101,
+            8223,
+            10521,
+            2243,
+            1998,
+            1045,
+            2064,
+            12210,
+            2008,
+            2383,
+            3677,
+            2987,
+            1005,
+            1056,
+            2467,
+            2393,
+            1012,
+            102
+        ],
+        "label": 0,
+        "prediction": 1,
+        "decoded_sentence": "ramdisk and i can confirm that having host doesn't always help."
+    },
+    {
+        "input_ids": [
+            101,
             2748,
             102
         ],
@@ -9293,43 +8863,6 @@
         "label": 0,
         "prediction": 1,
         "decoded_sentence": "because mewtwo's good in this game?"
-    },
-    {
-        "input_ids": [
-            101,
-            2002,
-            5369,
-            5369,
-            1012,
-            1012,
-            1012,
-            1045,
-            2066,
-            2129,
-            2115,
-            2568,
-            2573,
-            1012,
-            102
-        ],
-        "label": 0,
-        "prediction": 1,
-        "decoded_sentence": "hehehe... i like how your mind works."
-    },
-    {
-        "input_ids": [
-            101,
-            2507,
-            2009,
-            2051,
-            2047,
-            2497,
-            1012,
-            102
-        ],
-        "label": 1,
-        "prediction": 0,
-        "decoded_sentence": "give it time newb."
     },
     {
         "input_ids": [
