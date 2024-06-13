@@ -146,7 +146,7 @@ Accuracy Plot:
 
 ![news_acc](News_Headlines_Results/accuracies.png)
 
-### Reddit Results
+### Reddit Results (Comment only)
 
 The training and testing plots can be found at: `Reddit_Results'
 
