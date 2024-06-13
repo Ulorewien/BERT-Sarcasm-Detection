@@ -54,6 +54,8 @@ Datasets/
 |-- News_Headlines/
 |
 |-- Reddit/
+|   |-- Comment/
+|   |-- Comment_with_context/
 |
 |-- Twitter/
 ```
@@ -150,11 +152,11 @@ The training and testing plots can be found at: `Reddit_Results'
 
 Loss Plot:
 
-![reddit_loss](Reddit_Results/losses.png)
+![reddit_loss](Reddit_Results/Comment/losses.png)
 
 Accuracy Plot:
 
-![reddit_acc](Reddit_Results/accuracies.png)
+![reddit_acc](Reddit_Results/Comment/accuracies.png)
 
 ### Twitter Results
 
@@ -167,6 +169,10 @@ Loss Plot:
 Accuracy Plot:
 
 ![twitter_acc](Twitter_Results/accuracies.png)
+
+## Future Scope
+
+Future work could involve testing the Reddit dataset by incorporating the context of the parent comment or the subreddit it was posted on, or by including both. This approach could potentially enhance the accuracy of sarcasm detection. Additionally, experimenting with different pre-trained models and fine-tuning strategies may yield further improvements.
 
 ## Acknowledgments
 
